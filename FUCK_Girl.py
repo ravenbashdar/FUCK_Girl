@@ -1,4 +1,3 @@
-# Decompiled By Dark telegram @i4m_dark
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, requests, mechanize
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
