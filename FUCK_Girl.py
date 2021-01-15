@@ -42,17 +42,18 @@ def jalan(z):
 
 
 logo ="""
-\033[1;91m  AAA   7777777   AAA             MM    MM   AAA   RRRRRR    GGGG  
-\033[1;91m AAAAA      777  AAAAA    eee     MMM  MMM  AAAAA  RR   RR  GG  GG 
-\033[1;91mAA   AA    777  AA   AA ee   e    MM MM MM AA   AA RRRRRR  GG      
-\033[1;91mAAAAAAA   777   AAAAAAA eeeee     MM    MM AAAAAAA RR  RR  GG   GG 
-\033[1;91mAA   AA  777    AA   AA  eeeee    MM    MM AA   AA RR   RR  GGGGGG 
+\033[1;91m  AAA    RRRRRRRR   EEEEEEEEE    ZZZZZZZZZZ
+\033[1;92m AAAAA   RR    RR   EE                  ZZ
+\033[1;92mAA   AA  RRRRRR     EE                ZZ
+\033[1;93mAAAAAAA  RRRR       EEEEEE          ZZ
+\033[1;94mAA   AA  RR RR      EE            ZZ
+\033[1;95mAA   AA  RR  RR     EEEEEEEEE   ZZZZZZZZZZZ
 
-\033[1;94mMyTelegram : \033[1;91m@A7Ae_MARG
+\033[1;99mMyTelegram : \033[1;91m@Ravo_M
 
-\033[1;94mMyChanell  : \033[1;91m@A7AeMARG
+\033[1;95mMyChanell  : \033[1;91m@ArezBashdar
 
-\033[1;94m$$$$$$$$$$$$$$$$$$\033[1;91mA7Ae_MARG\033[1;94m$$$$$$$$$$$$$$$$$$
+\033[1;94m$$$$$$$$$$$$$$$$$$\033[1;91mArezBashdar\033[1;94m$$$$$$$$$$$$$$$$$$
     """
 def tik():
     titik = ['.   ', '..  ', '... ']
